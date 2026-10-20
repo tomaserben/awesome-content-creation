@@ -46,6 +46,7 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 - [Runway](https://runwayml.com/) — AI-powered video generation, editing, and effects.
 - [Opus Clip](https://www.opus.pro/) — AI tool that turns long videos into viral short clips.
 - [Pictory](https://pictory.ai/) — Turn long-form content into short branded videos with AI.
+- [FacelessShorts](https://facelessshorts.io/) — Scripted faceless short-form series with voiceover, captions, and scheduled publishing to Shorts, TikTok, and Reels.
 
 ### Stock Footage
 - [Pexels Videos](https://www.pexels.com/videos/) — Free stock video footage, no attribution required.
